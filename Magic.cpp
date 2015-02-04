@@ -3,7 +3,7 @@
 //Lab02g02A0119454.cpp
 //This programme askes for the size of the magic square and fill the magic square
 
-
+//testing
 
 #include <iostream>
 
